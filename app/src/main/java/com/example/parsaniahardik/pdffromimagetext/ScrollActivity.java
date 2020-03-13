@@ -66,6 +66,7 @@ public class ScrollActivity extends AppCompatActivity {
 
         int convertHighet = (int) hight, convertWidth = (int) width;
 
+
 //        Resources mResources = getResources();
 //        Bitmap bitmap = BitmapFactory.decodeResource(mResources, R.drawable.screenshot);
 
